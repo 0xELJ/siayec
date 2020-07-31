@@ -10,7 +10,7 @@ const styles = {
     color: "white",
     padding: 8,
     borderRadius: 8,
-    // textTransform: 'uppercase',
+    textTransform: 'uppercase' as 'uppercase',
     paddingLeft: 32,
     paddingRight: 32
 };
